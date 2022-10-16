@@ -36,7 +36,7 @@
     <br />
     <a href="https://github.com/sadityakumar9211/medichain-hardhat"><strong> <i>medichain-hardhat</i>: Hardhat Repository of MediChain Project»</strong></a>
     <br>
-    <a href="https://github.com/sadityakumar9211/medichain-thenextjs"><strong> <i>medichain-nextjs</i>: The Next.js Repository of MediChain Project»</strong></a>
+    <a href="https://github.com/sadityakumar9211/medichain-nextjs"><strong> <i>medichain-nextjs</i>: The Next.js Repository of MediChain Project»</strong></a>
     <br>
     <br />
     <a href="https://youtube.com/playlist?list=PLJ2CQ-kV7OQFkZfmnPIGMQLbhEUKIyWln">Watch Demo Videos</a>
