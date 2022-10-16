@@ -1,6 +1,6 @@
 specVersion: 0.0.4
 schema:
-  file: ./schema.graphql
+  file: schema.graphql
 dataSources:
   - kind: ethereum
     name: PatientMedicalRecordSystem
@@ -19,14 +19,15 @@ dataSources:
         - AddedPublicKey
       abis:
         - name: PatientMedicalRecordSystem
-          file: ./abis/PatientMedicalRecordSystem.json
+          file: PatientMedicalRecordSystem/abis/PatientMedicalRecordSystem.json
       eventHandlers:
         - event: AddedDoctor(indexed address,string,string,indexed uint256,string,indexed address)
           handler: handleAddedDoctor
         - event: AddedHospital(indexed address,string,string,indexed uint256,string,string)
           handler: handleAddedHospital
-        - event: AddedPatient(indexed address,string,string[],indexed uint256,string,indexed uint256,string,string[],string,string[],string[])
+        - event: AddedPatient(indexed address,string,string[],indexed uint256,string,indexed
+            uint256,string,string[],string,string[],string[])
           handler: handleAddedPatient
         - event: AddedPublicKey(indexed address,string)
           handler: handleAddedPublicKey
-      file: ./src/patient-medical-record-system.ts
+      file: PatientMedicalRecordSystem/PatientMedicalRecordSystem.wasm
