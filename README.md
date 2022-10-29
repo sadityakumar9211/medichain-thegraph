@@ -204,7 +204,7 @@ Don't forget to give the project a star! Thanks again!
 
 ## License
 
-Distributed under the `GPL-3.0 License`. See `COPYING` for more information.
+Distributed under the `GPL-3.0 License`. See [COPYING](https://github.com/sadityakumar9211/medichain-thegraph/blob/main/COPYING) for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
