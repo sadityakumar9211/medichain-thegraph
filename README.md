@@ -19,7 +19,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![GPL-3.0 License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
@@ -204,7 +204,7 @@ Don't forget to give the project a star! Thanks again!
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the `GPL-3.0 License`. See `COPYING` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -244,7 +244,7 @@ Project Link: [https://github.com/sadityakumar9211/medichain-hardhat](https://gi
 [issues-shield]: https://img.shields.io/github/issues/sadityakumar9211/medichain-thegraph.svg?style=for-the-badge
 [issues-url]: https://github.com/sadityakumar9211/medichain-thegraph/issues
 [license-shield]: https://img.shields.io/github/license/sadityakumar9211/medichain-thegraph.svg?style=for-the-badge
-[license-url]: https://github.com/sadityakumar9211/medichain-thegraph/blob/master/LICENSE
+[license-url]: https://github.com/sadityakumar9211/medichain-thegraph/blob/main/COPYING
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/saditya9211
 [product-screenshot]: https://user-images.githubusercontent.com/78147198/184471278-42e393d0-db94-4577-bdc9-328510b777c0.png
